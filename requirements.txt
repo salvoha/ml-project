@@ -10,3 +10,7 @@ scikit-learn==1.2.2
 statsmodels==0.13.5
 pytest==7.3.1
 nbdime==4.0.2
+missingno==0.5.1
+XGBoost==1.7.6
+catboost==1.2.8
+pandas_profiling==3.6.6
