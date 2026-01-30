@@ -1,5 +1,9 @@
 
-# Template Repo for ML Project
+# AlgoHolics ML-Project
+
+In this project we worked on the dataset for the kickstarter projects (https://www.kaggle.com/datasets/ulrikthygepedersen/kickstarter-projects/data).
+
+In this .md we explain what you can find in this repo and how to work with it.
 ## How to work with the repo
 **`GetData_and_EDA.ipynb`**
 
